@@ -1,5 +1,5 @@
-build/
-nbproject/
-test/
-*.xml
-*.mf
+03092018/build/*
+/*/nbproject
+/*/test
+/*/*.xml
+/*/*.mf
